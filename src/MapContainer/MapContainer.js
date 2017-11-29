@@ -11,7 +11,7 @@ const MapContainer = (props) => {
 
     const style = {
         width: '100%',
-        height: '200px'
+        height: '50em'
     }
 
     // TODO nie kasować
@@ -20,7 +20,7 @@ const MapContainer = (props) => {
 
     return (
         <div>
-            {props.coordsX} {props.coordsY}
+            {/* {props.coordsX} {props.coordsY} */}
             <Map
                 google={props.google}
                 zoom={14}

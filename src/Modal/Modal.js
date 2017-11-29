@@ -24,9 +24,9 @@ const Modal = (props) => {
                         </div>
                         <p>{props.description}</p>
 
-                        <div className="row">
+                        {/* <div className="row">
                             <MapContainer id={props.id} coordsX={props.coordsX} coordsY={props.coordsY} />
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className="modal-footer">

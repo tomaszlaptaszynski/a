@@ -4,6 +4,8 @@ import Thumbnail from './Thumbnail/Thumbnail';
 import Modal from './Modal/Modal';
 import MapContainer from './MapContainer/MapContainer';
 
+import './App.css';
+
 class App extends Component {
 
   items =
@@ -53,20 +55,173 @@ class App extends Component {
         coordsX: -25.363,
         coordsY: 131.044
       },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+      {
+        id: 6,
+        title: "06",
+        description: "Konskie",
+        coordsX: -25.363,
+        coordsY: 131.044
+      },
+
     ];
+
+   
+
 
   render() {
 
     return (
-      <div className="App container">
-        <div className="d-flex flex-wrap">
+      <div className="App">
+      <div className="row">
+        <div className="col-6 row wrap">
           {this.items.map(item => <Thumbnail key={item.id} id={item.id} />)}
         </div>
         <div>
           {this.items.map(item => <Modal key={item.id} id={item.id} title={item.title} description={item.description} coordsX={item.coordsX} coordsY={item.coordsY} />)}
         </div>
-        <div className="container">
+        <div className="col-6">
           <MapContainer coordsX="51.6954650" coordsY="19.4091357" />
+        </div>
         </div>
       </div>
     );
