@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "imageName": "TODO....................",
+    "visible": true,
+    "name": "Piramidy",
+    "description": "Łódź, Retkinia - 2013",
+    "coordsX": 51.74609,
+    "coordsY": 19.40194
+  },
+  {
+    "id": 2,
+    "visible": true,
+    "name": "Koń trojański",
+    "description": "Siemiatycze - 2014",
+    "coordsX": 51.04948, 
+    "coordsY": 15.58925
+  },
+  {
+    "id": 3,
+    "visible": true,
+    "name": "Niemodlin",
+    "description": "Niemodlin - 2014",
+    "coordsX": 50.6389, 
+    "coordsY": 17.60438
+  },
+  {
+    "id": 4,
+    "name": "Piramida",
+    "description": "Teofilow - 2015",
+    "coordsX": 51.80541, 
+    "coordsY": 19.3787
+  },
+  {
+    "id": 5,
+    "name": "Lego",
+    "description": "Port Łódź - 2015",
+    "coordsX": 51.70283, 
+    "coordsY": 19.41447
+  },
+  {
+    "id": 6,
+    "name": "Oranżeria egipska",
+    "description": "Końskie - 2014",
+    "coordsX": 51.18953, 
+    "coordsY": 20.41242
+  },
+  {
+    "id": 7,
+    "name": "Zator",
+    "description": "Park mitologi greckiej - 2013",
+    "coordsX": 49.99626, 
+    "coordsY": 19.43481
+  },
+  {
+    "id": 8,
+    "name": "06",
+    "description": "Świątynia",
+    "coordsX": 51.1891, 
+    "coordsY": 20.41203
+  },
+  {
+    "id": 9,
+    "name": "Swiątynia grecka",
+    "description": "Końskie - 2014",
+    "coordsX": 50.06066, 
+    "coordsY": 18.42647
+  },
+  {
+    "id": 10,
+    "name": "Sfinks",
+    "description": "Park miniatur, Pomorze - 2013",
+    "coordsX": 54.53672, 
+    "coordsY": 17.63872
+  },
+  {
+    "id": 11,
+    "name": "Piramida",
+    "description": "Bolesławiec - 2013",
+    "coordsX": 51.26398, 
+    "coordsY": 15.54848
+  },
+  {
+    "id": 12,
+    "name": "Rzeźby",
+    "description": "Siewierz - 2014",
+    "coordsX": 50.45848, 
+    "coordsY": 19.23036
+  },
+  {
+    "id": 13,
+    "name": "Piramida",
+    "description": "Centrum finansowe, Warszawa - 2013",
+    "coordsX": 52.21975, 
+    "coordsY": 20.917
+  },
+  {
+    "id": 14,
+    "name": "Zator",
+    "description": "Park mitologi greckiej - 2013",
+    "coordsX": 50.00034, 
+    "coordsY": 19.41455
+  },
+  {
+    "id": 15,
+    "name": "Legnica",
+    "description": "Legnica",
+    "coordsX": 51.20659, 
+    "coordsY": 16.15206
+  },
+  {
+    "id": 16,
+    "name": "06",
+    "description": "Nevada Center",
+    "coordsX": 52.30973, 
+    "coordsY": 15.24971
+  },
+  {
+    "id": 17,
+    "name": "06",
+    "description": "Inwład",
+    "coordsX": 49.86808, 
+    "coordsY": 19.41061
+  },
+  {
+    "id": 18,
+    "name": "06",
+    "description": "Teatr",
+    "coordsX": 51.7737, 
+    "coordsY": 19.46931
+  },
+  {
+    "id": 19,
+    "name": "06",
+    "description": "Lwówek Śląski",
+    "coordsX": 51.09506, 
+    "coordsY": 15.48305
+  },
+  {
+    "id": 20,
+    "name": "06",
+    "description": "Inwład",
+    "coordsX": 49.86808, 
+    "coordsY": 19.41061
+  },
+  {
+    "id": 21,
+    "name": "06",
+    "description": "XXI LO",
+    "coordsX": 51.76334, 
+    "coordsY": 19.45296
+  },
+  {
+    "id": 22,
+    "name": "06",
+    "description": "Rembertów",
+    "coordsX": 52.26692,
+    "coordsY": 21.17005
+  },
+  {
+    "id": 23,
+    "name": "06",
+    "description": "Łazienki",
+    "coordsX": 52.21256, 
+    "coordsY": 21.03474
+  },
+  {
+    "id": 24,
+    "name": "06",
+    "description": "Siłownia Apollo",
+    "coordsX": 51.75574, 
+    "coordsY": 19.46081
+  },
+  {
+    "id": 25,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 26,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 27,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 28,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 29,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 30,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 31,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 32,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 33,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 34,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 35,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 36,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 37,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 38,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 39,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 40,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 41,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 42,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 43,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  },
+  {
+    "id": 44,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": -25.363,
+    "coordsY": 131.044
+  }
+]

@@ -1,17 +1,26 @@
-import React from 'react';
+import React, { Component } from 'react';
 
 import './Thumbnail.css';
 
-import ThumbnailImage from './ThumbnailImage/ThumbnailImage';
+export class Thumbnail extends Component {
 
-const Thumbnail = (props) => {
-    return (
-        <div className="col-md-4 col-lg-3">
-            <div className="card border-0" data-toggle="modal" data-target={"#myModal" + props.id}>
-                <ThumbnailImage id={props.id} />
+    render() {
+
+        const url = "./images/" + this.props.id + ".jpg"; // TODO change to imageName or NOT
+
+        return (
+            <div className="col-md-4 col-lg-3 no-stretch">
+                <div className="card border-0">
+                    <img src={url}
+                        className="img-thumbnail rounded-0"
+                        alt=""
+                        onMouseOver={this.props.onThumbnailOver(this.props.id)}
+                        onMouseOut={this.props.onThumbnailOver(null)}
+                    />
+                </div>
             </div>
-        </div>
-    )
+        )
+    }
 };
 
 export default Thumbnail;

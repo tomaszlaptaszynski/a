@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "imageName": "TODO....................",
+    "visible": true,
+    "name": "01",
+    "description": "Pyramids",
+    "coordsX": 51.74609,
+    "coordsY": 19.40194
+  },
+  {
+    "id": 2,
+    "visible": true,
+    "name": "02",
+    "description": "Horse",
+    "coordsX": 51.1954650,
+    "coordsY": 19.1091357
+  },
+  {
+    "id": 3,
+    "visible": true,
+    "name": "03",
+    "description": "Niemodlin",
+    "coordsX": 51.9954650,
+    "coordsY": 19.9091357
+  },
+  {
+    "id": 4,
+    "name": "04",
+    "description": "Teofilow",
+    "coordsX": 51.2954650,
+    "coordsY": 19.2091357
+  },
+  {
+    "id": 5,
+    "name": "05",
+    "description": "Lego",
+    "coordsX": 51.3954650,
+    "coordsY": 19.3091357
+  },
+  {
+    "id": 6,
+    "name": "06",
+    "description": "Konskie",
+    "coordsX": 52,
+    "coordsY": 20
+  }
+]
